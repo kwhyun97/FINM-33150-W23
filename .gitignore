@@ -37,3 +37,7 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# pip env files
+Pipfile
+Pipfile.lock
