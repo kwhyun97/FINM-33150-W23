@@ -41,3 +41,6 @@ vignettes/*.pdf
 # pip env files
 Pipfile
 Pipfile.lock
+
+# data
+Data/*
