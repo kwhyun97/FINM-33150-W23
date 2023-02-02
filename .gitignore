@@ -44,4 +44,5 @@ Pipfile.lock
 
 # data
 Data/*
-*/data/*
+*.csv
+*.pkl
